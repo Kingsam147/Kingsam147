@@ -2,7 +2,7 @@
 
 Backend & full-stack engineer. I build APIs, distributed systems, and data-driven applications — with a focus on correctness, security, and maintainable architecture.
 
-Currently studying Computer Science at UMass Boston.
+Computer Science graduate, UMass Boston Honors College.
 
 ---
 

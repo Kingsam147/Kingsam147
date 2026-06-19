@@ -8,13 +8,13 @@ Currently studying Computer Science at UMass Boston.
 
 ## Projects
 
-### [Pokémon Radical Red Database](https://github.com/Kingsam147/pokemon-radical-red-database)
+### [Pokémon Radical Red Database](https://github.com/Kingsam147/pokemon-radical-red-database) · [Live](https://pokemon-damage-calculator-gamma.vercel.app)
 Full-stack damage calculator and team builder for the Radical Red ROM hack. Node.js · Express 5 · MongoDB · Auth0 · AWS S3 · Redis · Next.js 16 · Playwright
 
-### [VelocityX](https://github.com/Kingsam147/carwebsite)
+### [VelocityX](https://github.com/Kingsam147/carwebsite) · [Live](https://carwebsite-coral.vercel.app)
 Car detailing and service booking platform with real-time slot management. Next.js 16 · TypeScript · Supabase · Prisma · PostgreSQL · Redis · Sentry
 
-### [Student Scheduling System](https://github.com/Kingsam147/CS410-Student-Scheduling-Project)
+### [Student Scheduling System](https://github.com/Kingsam147/CS410-Student-Scheduling-Project) · [Live](https://student-scheduler-tau.vercel.app)
 Workforce scheduler with a probabilistic algorithm that runs 100k iterations to rank optimal shift assignments. Node.js · Supabase · Redis · Docker
 
 ### [Pinterest Clone](https://github.com/Kingsam147/pinterest-clone)
@@ -33,4 +33,4 @@ Image sharing platform with analytics tracking and automated user segmentation. 
 
 ---
 
-**[samuel-portfolio-url]** · hotfire147@gmail.com
+**[samuel-s-portfolio.vercel.app](https://samuel-s-portfolio.vercel.app)** · Samueldarius1470@gmail.com
